@@ -1,0 +1,3 @@
+Apa Itu Metode Spiral? 
+
+Model Spiral atau Metode spiral adalah salah satu model Siklus Hidup Pengembangan Perangkat Lunak (SDLC) yang paling penting, yang menyediakan dukungan untuk Penanganan Risiko. Dalam representasi diagram, itu terlihat seperti spiral dengan banyak loop. Jumlah pasti loop spiral tidak diketahui dan dapat bervariasi dari proyek ke proyek. Setiap loop spiral disebut Fase dari proses pengembangan perangkat lunak. Jumlah pasti fase yang dibutuhkan untuk mengembangkan produk dapat divariasikan oleh manajer proyek tergantung pada risiko proyek. Karena manajer proyek secara dinamis menentukan jumlah fase, maka manajer proyek memiliki peran penting untuk mengembangkan produk menggunakan model spiral.
